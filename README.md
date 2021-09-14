@@ -25,6 +25,6 @@
 >HTML / CSS / Javascript / jQuery  
 >Java 8 / Spring Framework 4.3.4 / Maven / MyBatis 3.2.7 / Oracle 11g  
 >  
->[프로젝트 상세 설명](https://shadow-lodge-ea6.notion.site/POPJOURNEY-b439901872c94efba830eecc649a12bb) 참고
+>[프로젝트 상세 설명](https://github.com/jjeongminchoi/PopJourney) 참고
 
 <!-- --- -->
