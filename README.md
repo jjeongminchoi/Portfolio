@@ -5,14 +5,14 @@
 ## 🙋🏻‍♂️ Intro
 이 세상에 못할 것은 없다. 시행 착오는 나를 더 강하게 만드는 원동력!
 
-안녕하세요! 드러머에서 웹 개발자로 전직을 꿈꾸는 최정민입니다 :)
+안녕하세요! 드럼치는 섬세한 개발자 최정민입니다 :)
 
 </br>
 
 ## 📞 Contact
 - 이메일: dndbejtk@naver.com
 - 블로그: https://choicode.tistory.com/
-- 깃헙: https://github.com/jjeongminchoi
+- 깃허브: https://github.com/jjeongminchoi
 
 </br>
 
